@@ -1,0 +1,3 @@
+/Users/gurjyan/Devel/Ersap/ejfat-alice/cmake-build-debug/CMakeFiles/ejfat_alice.dir
+/Users/gurjyan/Devel/Ersap/ejfat-alice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gurjyan/Devel/Ersap/ejfat-alice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
